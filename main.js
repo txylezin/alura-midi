@@ -16,5 +16,4 @@ for (Let contador = 0; contador < listaDeTeclas.lenght; contador++) {
   }
 }
 
-listaDeTeclas[0].onclick = tocaSomPom;
 
