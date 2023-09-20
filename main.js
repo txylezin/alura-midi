@@ -11,7 +11,7 @@ if (elemento && elemento.localName === 'audio') {
     }
 
 }
-const listaDeTeclas = document;querySelectorAll('.tecla');
+const listaDeTeclas = document.querySelectorAll('.tecla');
 
 //para
 for (Let contador = 0; contador < listaDeTeclas.lenght; contador++) {
