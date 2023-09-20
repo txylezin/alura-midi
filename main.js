@@ -30,6 +30,11 @@ tecla.onkeydown = function (evento) {
     tecla.classList.add('ativa');
   }
 
+  }
+tecla.onkeyup = function () {
+  tecla.classList.remove('ativa');
+  }
+
 }
 
 
